@@ -1,0 +1,15 @@
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\bin\Debug\net6.0\задача№21семинар3.exe
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\bin\Debug\net6.0\задача№21семинар3.deps.json
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\bin\Debug\net6.0\задача№21семинар3.runtimeconfig.json
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\bin\Debug\net6.0\задача№21семинар3.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\bin\Debug\net6.0\задача№21семинар3.pdb
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.csproj.AssemblyReference.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.AssemblyInfoInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.AssemblyInfo.cs
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.csproj.CoreCompileInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\refint\задача№21семинар3.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.pdb
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\задача№21семинар3.genruntimeconfig.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№19семинар3\задача№21семинар3\obj\Debug\net6.0\ref\задача№21семинар3.dll
