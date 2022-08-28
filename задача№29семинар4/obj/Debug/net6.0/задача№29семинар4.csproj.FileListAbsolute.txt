@@ -1,0 +1,15 @@
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\bin\Debug\net6.0\задача№29семинар4.exe
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\bin\Debug\net6.0\задача№29семинар4.deps.json
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\bin\Debug\net6.0\задача№29семинар4.runtimeconfig.json
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\bin\Debug\net6.0\задача№29семинар4.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\bin\Debug\net6.0\задача№29семинар4.pdb
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.csproj.AssemblyReference.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.AssemblyInfoInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.AssemblyInfo.cs
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.csproj.CoreCompileInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\refint\задача№29семинар4.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.pdb
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\задача№29семинар4.genruntimeconfig.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача№29семинар4\obj\Debug\net6.0\ref\задача№29семинар4.dll
