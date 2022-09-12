@@ -1,0 +1,15 @@
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\bin\Debug\net6.0\задача52семинар7.exe
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\bin\Debug\net6.0\задача52семинар7.deps.json
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\bin\Debug\net6.0\задача52семинар7.runtimeconfig.json
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\bin\Debug\net6.0\задача52семинар7.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\bin\Debug\net6.0\задача52семинар7.pdb
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.csproj.AssemblyReference.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.AssemblyInfoInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.AssemblyInfo.cs
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.csproj.CoreCompileInputs.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\refint\задача52семинар7.dll
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.pdb
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\задача52семинар7.genruntimeconfig.cache
+C:\Users\dns\OneDrive\Рабочий стол\lessons\example\задача52семинар7\obj\Debug\net6.0\ref\задача52семинар7.dll
